@@ -1,7 +1,7 @@
 import setuptools
 
 install_requires = [
-    'PyMuPDF',
+    'PyMuPDF==1.24.7',
 ]
 
 setuptools.setup(
